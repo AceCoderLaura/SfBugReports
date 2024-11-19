@@ -1,7 +1,7 @@
 using System.Collections.ObjectModel;
 using SfBugReports.Data;
 
-namespace SfBugReports;
+namespace SfBugReports.Pages;
 
 public partial class FilterFailOnObjectCollection
 {
