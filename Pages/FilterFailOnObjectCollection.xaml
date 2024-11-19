@@ -4,5 +4,7 @@
 	xmlns:syncfusion="http://schemas.syncfusion.com/wpf"
 	x:Name="PageRoot">
 	<syncfusion:SfDataGrid ItemsSource="{Binding ElementName=PageRoot, Path=DemoData}"
-	                       AllowFiltering="True" />
+	                       AllowFiltering="True"
+	                       VerticalAlignment="Center"
+	                       HorizontalAlignment="Center" />
 </Page>
